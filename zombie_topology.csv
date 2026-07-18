@@ -1,0 +1,41 @@
+Industry,ZombieState,RegulatoryDensity,CapitalIntensity,ReturnProfile,RegulatoryTopology,LifecycleStage
+Radio,8,6,2,6,Scarcity,Mid
+Broadcast TV,6,7,5,4,Infrastructure,Pre
+Cable TV,7,6,5,3,Infrastructure,Pre
+Print Newspapers (national),7,3,3,4,None,Mid
+Print Newspapers (local),9,2,2,1,None,Terminal
+Small-market TV stations,7,7,4,5,Scarcity,Mid
+Landline Telephony,9,8,3,3,Infrastructure,Mid
+Cable Broadband,5,6,7,4,Infrastructure,Pre
+Fiber Infrastructure,3,7,9,5,Infrastructure,Pre
+Department Stores,7,2,6,3,None,Pre
+Mall Specialty Retail,8,1,4,2,None,Pre
+Big-Box Retail,6,2,5,3,None,Pre
+Coal,8,9,8,2,Safety,Mid
+Legacy Manufacturing,6,3,7,3,None,Pre
+Utilities,7,10,9,5,Safety,Mid
+Regional Banks,8,8,8,3,Compliance,Terminal
+Insurance Brokerage,7,8,2,7,Compliance,Mid
+Legacy Asset Managers,6,6,5,4,Compliance,Pre
+For-profit Colleges,9,7,4,1,Compliance,Terminal
+Small Private Colleges,8,5,6,2,Compliance,Mid
+Rural Hospitals,9,10,9,1,Safety,Terminal
+Independent Physician Practices,7,8,5,4,Compliance,Mid
+Taxi Companies,9,7,4,1,Infrastructure,Terminal
+Intercity Bus Lines,8,6,5,2,Infrastructure,Terminal
+Postal Mail (letters),8,9,6,3,Infrastructure,Mid
+Local Broadcast Infrastructure,7,9,5,3,Infrastructure,Mid
+Parking Enforcement,6,8,2,6,Compliance,Mid
+Funeral Homes,7,8,3,7,Safety,Mid
+Storage Facilities,6,7,3,7,Scarcity,Mid
+Car Washes,6,6,3,6,Scarcity,Mid
+Laundromats,6,6,3,6,Scarcity,Mid
+ATM Networks,7,7,2,6,Compliance,Mid
+Vending Routes,6,5,2,6,Scarcity,Mid
+Property Management,6,7,2,7,Compliance,Mid
+Local Government Contracting,7,9,3,7,Infrastructure,Mid
+Pest Control,5,6,3,6,Compliance,Mid
+Elevator Maintenance,6,8,4,7,Safety,Mid
+Fire Safety Inspection,6,8,3,7,Safety,Mid
+Water Testing & Treatment,6,9,4,6,Infrastructure,Mid
+HVAC Service Companies,5,6,3,6,Compliance,Mid
